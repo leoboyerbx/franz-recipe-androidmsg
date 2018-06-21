@@ -1,0 +1,13 @@
+{
+  "id": "androidmsg",
+  "name": "Android Messages",
+  "version": "1.0",
+  "description": "Franz integration for Android Messages web client",
+  "main": "index.js",
+  "author": "Léo Boyer <leoboyer.bx>",
+  "license": "MIT",
+  "repository": "https://github.com/leoboyerbx/franz-recipe-androidmsg",
+  "config": {
+    "serviceURL": "https://messages.android.com/"
+  }
+}

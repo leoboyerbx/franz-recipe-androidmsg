@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3B61CC;}
+	.st1{fill:#F3F3F3;}
+	.st2{fill:none;stroke:#C0C0C0;stroke-width:62;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Calque_2">
+	<circle class="st0" cx="512" cy="512" r="456"/>
+	<path class="st1" d="M241,424v71l424-210c0,0-471,0-483,0s-20,17-11,34C195,355,241,424,241,424z"/>
+	<path class="st1" d="M364.5,285h293c69,0,125.5,56.5,125.5,125.5v205c0,69-56.5,125.5-125.5,125.5h-293
+		c-69,0-125.5-56.5-125.5-125.5v-205C239,341.5,295.5,285,364.5,285z"/>
+	<line class="st2" x1="373" y1="409" x2="646" y2="409"/>
+	<line class="st2" x1="373" y1="512" x2="646" y2="512"/>
+	<line class="st2" x1="373" y1="615" x2="520" y2="615"/>
+</g>
+<g id="Calque_1">
+</g>
+</svg>
